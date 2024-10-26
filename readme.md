@@ -1,4 +1,18 @@
+# BPL-DREAM 11
 
+**Description:**  
+BPL-DREAM 11 is an engaging fantasy cricket game where players can collect coins, purchase players, and build their dream team. At the top of the page, players can see their coin balance, which they can use to buy players. The middle of the page is dedicated to player selection, where users can choose and purchase players for their team lineup.
+
+**Technologies Used:**  
+- HTML
+- CSS
+- JavaScript
+- React
+
+**Key Features:**  
+1. **Add Players:** Add players to your lineup by purchasing them with coins.
+2. **Select Players:** Choose from a pool of players to create your ultimate team.
+3. **Borrow Coins:** Gain additional coins if needed to continue building your dream team.
 ## Private For your Assignment
 
 you have to create private repo in our Google Classroom . here is the Link
